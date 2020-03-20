@@ -1,0 +1,7 @@
+C:\Users\M.FITRATUL IMAN\source\repos\Tugas\Tugas\bin\Debug\Tugas.exe.config
+C:\Users\M.FITRATUL IMAN\source\repos\Tugas\Tugas\bin\Debug\Tugas.exe
+C:\Users\M.FITRATUL IMAN\source\repos\Tugas\Tugas\bin\Debug\Tugas.pdb
+C:\Users\M.FITRATUL IMAN\source\repos\Tugas\Tugas\obj\Debug\Tugas.csprojAssemblyReference.cache
+C:\Users\M.FITRATUL IMAN\source\repos\Tugas\Tugas\obj\Debug\Tugas.csproj.CoreCompileInputs.cache
+C:\Users\M.FITRATUL IMAN\source\repos\Tugas\Tugas\obj\Debug\Tugas.exe
+C:\Users\M.FITRATUL IMAN\source\repos\Tugas\Tugas\obj\Debug\Tugas.pdb
