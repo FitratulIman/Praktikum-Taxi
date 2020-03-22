@@ -1,5 +1,5 @@
-README.portable
-=======================
+ # README.
+============
 
 This version of Git for Windows is portable, i.e. does not need to
 be installed. It will run from any directory you place it in, even
@@ -52,7 +52,7 @@ variable temporarily:
         set gitdir=c:\portablegit
         set path=%gitdir%\cmd;%path%
 
-Adjust the 'gitdir' according to your setup.  As long as you do not
+Adjust the 'gitdir' according not
 close the command window, you can now simply type "git" or "gitk" to
 really call "c:\portablegit\cmd\git.exe" or "c:\portablegit\cmd\gitk.exe".
 
